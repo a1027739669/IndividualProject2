@@ -1,6 +1,7 @@
 package zyx;
 
 import zyx.func.Step0;
+import zyx.func.Step1;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -19,8 +20,8 @@ public class Main
     public static void main ( String[] args ) throws Exception
     {
         long start=System.currentTimeMillis();
-      Step0 step0=new Step0();
-      step0.cout("GameOfThron.txt");
+      Step1 step1=new Step1();
+      step1.cout1("GoneWithTheWind.txt");
       long end=System.currentTimeMillis();
         System.out.println(end-start);
     }
