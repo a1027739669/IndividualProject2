@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/GoneWithTheWind.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dirtest/GoneWithTheWind.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dirtest/childdir/GoneWithTheWind.txt" charset="GBK" />
   </component>
 </project>
