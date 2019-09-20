@@ -4,6 +4,7 @@ package zyx;
 import zyx.func.Step0;
 import zyx.func.Step1;
 import zyx.func.Step2;
+import zyx.func.Step3;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -22,7 +23,7 @@ public class Main
 {
     public static void main ( String[] args ) throws Exception
     { long start=System.currentTimeMillis();
-      Step2.countWordsWithStopWords(Paths.get("stopwords.txt"),Paths.get("GoneWithTheWind.txt"));
+      Step3.cout1(Paths.get("GoneWithTheWind.txt"),2);
       long end=System.currentTimeMillis();
         System.out.println(end-start);
     }
