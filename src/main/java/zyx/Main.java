@@ -3,6 +3,7 @@ package zyx;
 
 import zyx.func.Step0;
 import zyx.func.Step1;
+import zyx.func.Step2;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -20,9 +21,8 @@ import java.util.regex.Pattern;
 public class Main
 {
     public static void main ( String[] args ) throws Exception
-    {
-        long start=System.currentTimeMillis();
-      Step1.cout1(Paths.get("GameOfThron.txt"),10);
+    { long start=System.currentTimeMillis();
+      Step2.countWordsWithStopWords(Paths.get("stopwords.txt"),Paths.get("GoneWithTheWind.txt"));
       long end=System.currentTimeMillis();
         System.out.println(end-start);
     }
