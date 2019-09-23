@@ -1,0 +1,28 @@
+
+abandon -> abandons,abandoning,abandoned
+
+abase -> abases,abasing,abased
+
+abate -> abates,abating,abated
+
+abbreviate -> abbreviates,abbreviating,abbreviated
+
+abdicate -> abdicates,abdicating,abdicated
+
+abduct -> abducts,abducting,abducted
+
+abet -> abets,abetting,abetted
+
+abhor -> abhors,abhorring,abhorred
+
+abide -> abode,abided,abides,abiding
+
+abjure -> abjures,abjuring,abjured
+
+abolish -> abolishes,abolishing,abolished
+
+abominate -> abominates,abominating,abominated
+
+is -> are,was
+
+hava -> had,has
