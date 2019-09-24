@@ -3,6 +3,7 @@ package zyx.func.functions;
 import zyx.func.functions.Step1;
 
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.HashMap;
@@ -10,7 +11,7 @@ import java.util.List;
 
 public class Step2 {
    public static void countWordsWithStopWords(Path stopwordspath,Path filepath) throws IOException {
-       List<String> list= Files.readAllLines(stopwordspath);
+       List<String> list= Files.readAllLines(stopwordspath, Charset.forName("GBK"));
        List<HashMap.Entry<String,Integer>> hashMap= Step1.countWords(filepath);
        for(String word:list){
            for(int i=0;i<hashMap.size();i++){

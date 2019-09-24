@@ -1,6 +1,7 @@
 package zyx.func.functions;
 
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.*;
@@ -10,7 +11,7 @@ import java.util.regex.Pattern;
 public class Step3 {
     public static List<HashMap.Entry<String, Integer>> countPhrase(Path filePath, int n) throws IOException {
         HashMap<String, Integer> hashMap = new HashMap<>();
-        List<String> list = Files.readAllLines(filePath);
+        List<String> list = Files.readAllLines(filePath, Charset.forName("GBK"));
         String regex = "";
         for (int i = 0; i < n - 1; i++) {
             regex += "[a-z][0-9a-z]*\\s";
@@ -46,7 +47,7 @@ public class Step3 {
 
     public static List<HashMap.Entry<String, Integer>> countPhrase(Path filePath, int n,Path vervPath) throws IOException {
         HashMap<String, Integer> hashMap = new HashMap<>();
-        List<String> list = Files.readAllLines(filePath);
+        List<String> list = Files.readAllLines(filePath,Charset.forName("GBK"));
         List<List<String>> verbs= Step4.change(vervPath);
         String regex = "";
         Pattern preHandle=Pattern.compile("[a-z][0-9a-z]*");

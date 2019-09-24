@@ -2,6 +2,7 @@ package zyx.func.functions;
 
 
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.*;
@@ -14,7 +15,7 @@ public class Step1 {
 
     public static List<Map.Entry<String, Integer>> countWords(Path filePath) throws IOException {
         HashMap<String, Integer> hashMap = new HashMap<>();
-        List<String> list = Files.readAllLines(filePath);
+        List<String> list = Files.readAllLines(filePath, Charset.forName("GBK"));
         Pattern pattern = Pattern.compile("[a-z][0-9a-z]*");
         for (String s : list) {
             Matcher matcher = pattern.matcher(s.toLowerCase());
@@ -46,7 +47,7 @@ public class Step1 {
     public static List<Map.Entry<String, Integer>> countWords(Path filePath,Path verPath) throws IOException {
         List<List<String>> verbs= Step4.change(verPath);
         HashMap<String, Integer> hashMap = new HashMap<>();
-        List<String> list = Files.readAllLines(filePath);
+        List<String> list = Files.readAllLines(filePath,Charset.forName("GBK"));
         Pattern pattern = Pattern.compile("[a-z][0-9a-z]*");
         for (String s : list) {
             Matcher matcher = pattern.matcher(s.toLowerCase());
