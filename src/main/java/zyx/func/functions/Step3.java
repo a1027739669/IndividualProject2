@@ -1,8 +1,5 @@
-package zyx.func;
+package zyx.func.functions;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -50,7 +47,7 @@ public class Step3 {
     public static List<HashMap.Entry<String, Integer>> countPhrase(Path filePath, int n,Path vervPath) throws IOException {
         HashMap<String, Integer> hashMap = new HashMap<>();
         List<String> list = Files.readAllLines(filePath);
-        List<List<String>> verbs=Step4.change(vervPath);
+        List<List<String>> verbs= Step4.change(vervPath);
         String regex = "";
         Pattern preHandle=Pattern.compile("[a-z][0-9a-z]*");
         List<String> ans=new ArrayList<>();

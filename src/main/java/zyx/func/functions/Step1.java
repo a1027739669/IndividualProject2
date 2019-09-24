@@ -1,4 +1,4 @@
-package zyx.func;
+package zyx.func.functions;
 
 
 import java.io.IOException;
@@ -44,7 +44,7 @@ public class Step1 {
     }
 
     public static List<Map.Entry<String, Integer>> countWords(Path filePath,Path verPath) throws IOException {
-        List<List<String>> verbs=Step4.change(verPath);
+        List<List<String>> verbs= Step4.change(verPath);
         HashMap<String, Integer> hashMap = new HashMap<>();
         List<String> list = Files.readAllLines(filePath);
         Pattern pattern = Pattern.compile("[a-z][0-9a-z]*");
@@ -93,6 +93,19 @@ public class Step1 {
         });
     }
 
+    public static void countWordsDirectory(String direcPath,int n) throws IOException {
+        Files.walkFileTree(Paths.get(direcPath), new SimpleFileVisitor<Path>() {
+            @Override
+            public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+                System.out.println("*****************************");
+                System.out.println("正在访问文件:" + file.getFileName());
+                Step1.cout1(file.toAbsolutePath(),n);
+                System.out.println("*****************************");
+                return FileVisitResult.CONTINUE;
+            }
+        });
+    }
+
     public static void countWordsDirectoryAndChild(String direcPath) throws IOException {
         Files.walkFileTree(Paths.get(direcPath), new SimpleFileVisitor<Path>() {
             @Override
@@ -105,6 +118,23 @@ public class Step1 {
                     e.printStackTrace();
                 }
                 Step1.cout1(Step1.countWords(file.toAbsolutePath()));
+                System.err.println("***********************************************************************");
+                return FileVisitResult.CONTINUE;
+            }
+
+            @Override
+            public FileVisitResult preVisitDirectory(Path dir, BasicFileAttributes attrs) throws IOException {
+                return FileVisitResult.CONTINUE;
+            }
+        });
+    }
+    public static void countWordsDirectoryAndChild(String direcPath,int n) throws IOException {
+        Files.walkFileTree(Paths.get(direcPath), new SimpleFileVisitor<Path>() {
+            @Override
+            public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+                System.err.println("***********************************************************************");
+                System.out.println("正在访问文件:" + file.getFileName());
+                Step1.cout1(file.toAbsolutePath(),n);
                 System.err.println("***********************************************************************");
                 return FileVisitResult.CONTINUE;
             }
@@ -137,7 +167,7 @@ public class Step1 {
             System.out.println("n的指应当大于0\n");
         } else {
             System.out.printf("出现频率前%d的单词为:\n",n);
-            for(int i=0;i<n;i++){
+            for(int i=0;i<n&&i<list.size();i++){
                 HashMap.Entry<String,Integer> entry=list.get(i);
                 System.out.printf("单词:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
             }

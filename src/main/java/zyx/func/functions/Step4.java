@@ -1,4 +1,4 @@
-package zyx.func;
+package zyx.func.functions;
 
 import java.io.IOException;
 import java.nio.file.Files;
