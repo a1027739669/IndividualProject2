@@ -6,7 +6,6 @@ import java.nio.charset.Charset;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.*;
-import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -113,11 +112,6 @@ public class Step1 {
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
                 System.err.println("***********************************************************************");
                 System.out.println("正在访问文件:" + file.getFileName());
-                try {
-                    TimeUnit.SECONDS.sleep(1);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
                 Step1.cout1(Step1.countWords(file.toAbsolutePath()));
                 System.err.println("***********************************************************************");
                 return FileVisitResult.CONTINUE;
