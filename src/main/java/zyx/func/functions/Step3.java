@@ -2,16 +2,29 @@ package zyx.func.functions;
 
 import java.io.IOException;
 import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Path;
+import java.nio.file.*;
+import java.nio.file.attribute.BasicFileAttributes;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Step3 {
+    public static void countPhraseWithDirec(String direPath,int n) throws IOException{
+        Files.walkFileTree(Paths.get(direPath), new SimpleFileVisitor<Path>() {
+            @Override
+            public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
+                System.out.println("*****************************");
+                System.out.println("正在访问文件:" + file.getFileName());
+                Step3.cout1(Step3.countPhrase(file.toAbsolutePath(),n), n);
+                System.out.println("*****************************");
+                return FileVisitResult.CONTINUE;
+            }
+        });
+    }
     public static List<HashMap.Entry<String, Integer>> countPhrase(Path filePath, int n) throws IOException {
         HashMap<String, Integer> hashMap = new HashMap<>();
-        List<String> list = Files.readAllLines(filePath, Charset.forName("GBK"));
+        Charset charset = Charset.forName("GBK");
+        List<String> list = Files.readAllLines(filePath,charset);
         String regex = "";
         for (int i = 0; i < n - 1; i++) {
             regex += "[a-z][0-9a-z]*\\s";
@@ -101,13 +114,13 @@ public class Step3 {
         for (HashMap.Entry<String, Integer> entry : list) {
             count += entry.getValue();
         }
-        System.out.println("只输出前100位:");
-        for (int i = 0; i < 100; i++) {
-            HashMap.Entry<String, Integer> entry = list.get(i);
-            System.out.printf("短语:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(), (float) entry.getValue() * 100 / count);
-        }
-//        for (HashMap.Entry<String, Integer> entry : list) {
-//            System.out.printf("短语:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+//        System.out.println("只输出前100位:");
+//        for (int i = 0; i < 100; i++) {
+//            HashMap.Entry<String, Integer> entry = list.get(i);
+//            System.out.printf("短语:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(), (float) entry.getValue() * 100 / count);
 //        }
+        for (HashMap.Entry<String, Integer> entry : list) {
+            System.out.printf("短语:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+        }
     }
 }
