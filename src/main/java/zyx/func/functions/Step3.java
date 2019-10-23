@@ -1,6 +1,7 @@
 package zyx.func.functions;
 
 import java.io.IOException;
+import java.io.PrintStream;
 import java.nio.charset.Charset;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
@@ -9,14 +10,17 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Step3 {
-    public static void countPhraseWithDirec(String direPath,int n) throws IOException{
+    public static void countPhraseWithDirec(String direPath,int n,PrintStream printStream) throws IOException{
         Files.walkFileTree(Paths.get(direPath), new SimpleFileVisitor<Path>() {
             @Override
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-                System.out.println("*****************************");
-                System.out.println("正在访问文件:" + file.getFileName());
-                Step3.cout1(Step3.countPhrase(file.toAbsolutePath(),n), n);
-                System.out.println("*****************************");
+//                System.out.println("*****************************");
+//                System.out.println("正在访问文件:" + file.getFileName());
+                printStream.println("*****************************");
+                printStream.println("正在访问文件:" + file.getFileName());
+                Step3.cout1(Step3.countPhrase(file.toAbsolutePath(),n), n,printStream);
+//                System.out.println("*****************************");
+                printStream.println("*****************************");
                 return FileVisitResult.CONTINUE;
             }
         });
@@ -109,7 +113,7 @@ public class Step3 {
         return result;
     }
 
-    public static void cout1(List<HashMap.Entry<String, Integer>> list, int n) throws IOException {
+    public static void cout1(List<HashMap.Entry<String, Integer>> list, int n, PrintStream printStream) throws IOException {
         int count = 0;
         for (HashMap.Entry<String, Integer> entry : list) {
             count += entry.getValue();
@@ -120,7 +124,8 @@ public class Step3 {
 //            System.out.printf("短语:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(), (float) entry.getValue() * 100 / count);
 //        }
         for (HashMap.Entry<String, Integer> entry : list) {
-            System.out.printf("短语:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+//            System.out.printf("短语:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+            printStream.println(String.format("短语:%s 出现次数:%d 频率:%.2f%%", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count));
         }
     }
 }

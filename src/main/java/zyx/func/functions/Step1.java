@@ -1,7 +1,9 @@
 package zyx.func.functions;
 
 
+import java.io.File;
 import java.io.IOException;
+import java.io.PrintStream;
 import java.nio.charset.Charset;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
@@ -80,40 +82,49 @@ public class Step1 {
         return result;
     }
 
-    public static void countWordsDirectory(String direcPath) throws IOException {
+    public static void countWordsDirectory(String direcPath,PrintStream printStream) throws IOException {
         Files.walkFileTree(Paths.get(direcPath), new SimpleFileVisitor<Path>() {
             @Override
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-                System.out.println("*****************************");
-                System.out.println("正在访问文件:" + file.getFileName());
-                Step1.cout1(Step1.countWords(file.toAbsolutePath()));
-                System.out.println("*****************************");
+//                System.out.println("*****************************");
+//                System.out.println("正在访问文件:" + file.getFileName());
+                printStream.println("*****************************");
+                printStream.println("正在访问文件:" + file.getFileName());
+                Step1.cout1(Step1.countWords(file.toAbsolutePath()),printStream);
+//                System.out.println("*****************************");
+                printStream.println("*****************************");
                 return FileVisitResult.CONTINUE;
             }
         });
     }
 
-    public static void countWordsDirectory(String direcPath,int n) throws IOException {
+    public static void countWordsDirectory(String direcPath,int n,PrintStream printStream) throws IOException {
         Files.walkFileTree(Paths.get(direcPath), new SimpleFileVisitor<Path>() {
             @Override
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-                System.out.println("*****************************");
-                System.out.println("正在访问文件:" + file.getFileName());
-                Step1.cout1(file.toAbsolutePath(),n);
-                System.out.println("*****************************");
+//                System.out.println("*****************************");
+//                System.out.println("正在访问文件:" + file.getFileName());
+                printStream.println("*****************************");
+                printStream.println("正在访问文件:" + file.getFileName());
+                Step1.cout1(file.toAbsolutePath(),n,printStream);
+//                System.out.println("*****************************");
+                printStream.println("*****************************");
                 return FileVisitResult.CONTINUE;
             }
         });
     }
 
-    public static void countWordsDirectoryAndChild(String direcPath) throws IOException {
+    public static void countWordsDirectoryAndChild(String direcPath,PrintStream printStream) throws IOException {
         Files.walkFileTree(Paths.get(direcPath), new SimpleFileVisitor<Path>() {
             @Override
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-                System.err.println("***********************************************************************");
-                System.out.println("正在访问文件:" + file.getFileName());
-                Step1.cout1(Step1.countWords(file.toAbsolutePath()));
-                System.err.println("***********************************************************************");
+//                System.err.println("***********************************************************************");
+//                System.out.println("正在访问文件:" + file.getFileName());
+                printStream.println("*****************************");
+                printStream.println("正在访问文件:" + file.getFileName());
+                Step1.cout1(Step1.countWords(file.toAbsolutePath()),printStream);
+//                System.err.println("***********************************************************************");
+                printStream.println("*****************************");
                 return FileVisitResult.CONTINUE;
             }
 
@@ -123,14 +134,17 @@ public class Step1 {
             }
         });
     }
-    public static void countWordsDirectoryAndChild(String direcPath,int n) throws IOException {
+    public static void countWordsDirectoryAndChild(String direcPath,int n,PrintStream printStream) throws IOException {
         Files.walkFileTree(Paths.get(direcPath), new SimpleFileVisitor<Path>() {
             @Override
             public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-                System.err.println("***********************************************************************");
-                System.out.println("正在访问文件:" + file.getFileName());
-                Step1.cout1(file.toAbsolutePath(),n);
-                System.err.println("***********************************************************************");
+//                System.err.println("***********************************************************************");
+//                System.out.println("正在访问文件:" + file.getFileName());
+                printStream.println("*****************************");
+                printStream.println("正在访问文件:" + file.getFileName());
+                Step1.cout1(file.toAbsolutePath(),n,printStream);
+//                System.err.println("***********************************************************************");
+                printStream.println("*****************************");
                 return FileVisitResult.CONTINUE;
             }
 
@@ -142,17 +156,21 @@ public class Step1 {
     }
 
 
-    public static void cout1(List<HashMap.Entry<String,Integer>> list) throws IOException {
+    public static void cout1(List<HashMap.Entry<String,Integer>> list,PrintStream printStream) throws IOException {
         int count=0;
         for (HashMap.Entry<String, Integer> entry : list) {
             count+=entry.getValue();
         }
-        for (HashMap.Entry<String, Integer> entry : list) {
-            System.out.printf("单词:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+
+        for(int i=0;i<list.size();i++){
+            HashMap.Entry<String,Integer> entry=list.get(i);
+//       System.out.printf("单词:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+         printStream.println(String.format("单词:%s 出现次数:%d 频率:%.2f%%", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count));
         }
+//        printStream.close();
     }
 
-    public static void cout1(Path filePath, int n) throws IOException {
+    public static void cout1(Path filePath, int n,PrintStream printStream) throws IOException {
         List<HashMap.Entry<String, Integer>> list = Step1.countWords(filePath);
         int count=0;
         for (HashMap.Entry<String, Integer> entry : list) {
@@ -161,10 +179,12 @@ public class Step1 {
         if (n <= 0) {
             System.out.println("n的指应当大于0\n");
         } else {
-            System.out.printf("出现频率前%d的单词为:\n",n);
+//            System.out.printf("出现频率前%d的单词为:\n",n);
+            printStream.println(String.format("出现频率前%d的单词为:",n));
             for(int i=0;i<n&&i<list.size();i++){
                 HashMap.Entry<String,Integer> entry=list.get(i);
-                System.out.printf("单词:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+//                System.out.printf("单词:%s 出现次数:%d 频率:%.2f%%\n", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count);
+                printStream.println(String.format("单词:%s 出现次数:%d 频率:%.2f%%", entry.getKey(), entry.getValue(),(float)entry.getValue()*100/count));
             }
         }
     }
