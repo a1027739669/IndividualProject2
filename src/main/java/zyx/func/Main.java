@@ -42,26 +42,26 @@ public class Main {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step1.cout1(Step1.countWords(Paths.get(filePaths.get(0))), printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-d")) {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step1.countWordsDirectory(filePaths.get(0), printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-p")) {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step3.cout1(Step3.countPhrase(Paths.get(filePaths.get(1)), Integer.parseInt(filePaths.get(0))), Integer.parseInt(filePaths.get(0)),printStream);
 //                Step3.countPhraseWithDirec(filePaths.get(1),Integer.parseInt(filePaths.get(0)));
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
         }
         if (params.size() == 2) {
@@ -69,58 +69,58 @@ public class Main {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step1.countWordsDirectoryAndChild(filePaths.get(0),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-p") && params.get(1).equals("-d")) {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step3.countPhraseWithDirec(filePaths.get(1), Integer.parseInt(filePaths.get(0)),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-f") && params.get(1).equals("-n")) {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step1.cout1(Paths.get(filePaths.get(1)), Integer.parseInt(filePaths.get(0)),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-f") && params.get(1).equals("-v")) {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step1.cout1(Step1.countWords(Paths.get(filePaths.get(1)), Paths.get(filePaths.get(0))),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-d") && params.get(1).equals("-n")) {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step1.countWordsDirectory(filePaths.get(1), Integer.parseInt(filePaths.get(0)),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-x") && params.get(1).equals("-f")) {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step2.countWordsWithStopWords(Paths.get(filePaths.get(0)), Paths.get(filePaths.get(1)),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-x") && params.get(1).equals("-d")) {
                 long start = System.currentTimeMillis();
 //                Step2.countWordsWithStopWords(Paths.get(filePaths.get(0)), Paths.get(filePaths.get(1)));
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step2.countWordsWithStopWordsAndDirec(Paths.get(filePaths.get(0)), Paths.get(filePaths.get(1)),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
             if (params.get(0).equals("-p") && params.get(1).equals("-v")) {
                 long start = System.currentTimeMillis();
@@ -134,9 +134,9 @@ public class Main {
                 long start = System.currentTimeMillis();
                 PrintStream printStream = new PrintStream(new File("result.txt"));
                 Step1.countWordsDirectoryAndChild(filePaths.get(1), Integer.parseInt(filePaths.get(0)),printStream);
-                printStream.close();
                 long end = System.currentTimeMillis();
-                System.out.println((end - start) / (float) 1000 + " " + "s");
+                printStream.println((end - start) / (float) 1000 + " " + "s");
+                printStream.close();
             }
         }
     }

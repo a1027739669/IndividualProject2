@@ -1,433 +1,382 @@
-短语:i have a 出现次数:9 频率:1.86%
-短语:let freedom ring 出现次数:9 频率:1.86%
-短语:go back to 出现次数:6 频率:1.24%
-短语:dream that one 出现次数:5 频率:1.04%
-短语:now is the 出现次数:4 频率:0.83%
-短语:we will be 出现次数:4 频率:0.83%
-短语:one hundred years 出现次数:3 频率:0.62%
-短语:will be able 出现次数:3 频率:0.62%
-短语:with this faith 出现次数:3 频率:0.62%
-短语:be satisfied as 出现次数:2 频率:0.41%
-短语:free at last 出现次数:2 频率:0.41%
-短语:from every mountainside 出现次数:2 频率:0.41%
-短语:let us not 出现次数:2 频率:0.41%
-短语:of freedom and 出现次数:2 频率:0.41%
-短语:of our nation 出现次数:2 频率:0.41%
-短语:the negro is 出现次数:2 频率:0.41%
-短语:the sons of 出现次数:2 频率:0.41%
-短语:time to make 出现次数:2 频率:0.41%
-短语:to join hands 出现次数:2 频率:0.41%
-短语:ve come to 出现次数:2 频率:0.41%
-短语:we can never 出现次数:2 频率:0.41%
-短语:we must not 出现次数:2 频率:0.41%
-短语:a bad check 出现次数:1 频率:0.21%
-短语:a check that 出现次数:1 频率:0.21%
-短语:a check which 出现次数:1 频率:0.21%
-短语:a distrust of 出现次数:1 频率:0.21%
-短语:a great american 出现次数:1 频率:0.21%
-短语:a great nation 出现次数:1 频率:0.21%
-短语:a joyous daybreak 出现次数:1 频率:0.21%
-短语:a mighty stream 出现次数:1 频率:0.21%
-短语:a promise that 出现次数:1 频率:0.21%
-短语:a promissory note 出现次数:1 频率:0.21%
-短语:a shameful condition 出现次数:1 频率:0.21%
-短语:a state sweltering 出现次数:1 频率:0.21%
-短语:a stone of 出现次数:1 频率:0.21%
-短语:able to hew 出现次数:1 频率:0.21%
-短语:able to speed 出现次数:1 频率:0.21%
-短语:able to transform 出现次数:1 频率:0.21%
-短语:able to work 出现次数:1 频率:0.21%
-短语:again and again 出现次数:1 频率:0.21%
-短语:all of god 出现次数:1 频率:0.21%
-短语:all white people 出现次数:1 频率:0.21%
-短语:allow our creative 出现次数:1 频率:0.21%
-短语:america has given 出现次数:1 频率:0.21%
-短语:america until the 出现次数:1 频率:0.21%
-短语:american society and 出现次数:1 频率:0.21%
-短语:american was to 出现次数:1 频率:0.21%
-短语:an invigorating autumn 出现次数:1 频率:0.21%
-短语:and all flesh 出现次数:1 频率:0.21%
-短语:and as we 出现次数:1 频率:0.21%
-短语:and black girls 出现次数:1 频率:0.21%
-短语:and desolate valley 出现次数:1 频率:0.21%
-短语:and every city 出现次数:1 频率:0.21%
-短语:and every hill 出现次数:1 频率:0.21%
-短语:and if america 出现次数:1 频率:0.21%
-短语:and live out 出现次数:1 频率:0.21%
-短语:and molehill of 出现次数:1 频率:0.21%
-短语:and mountain shall 出现次数:1 频率:0.21%
-短语:and righteousness like 出现次数:1 频率:0.21%
-短语:and sing in 出现次数:1 频率:0.21%
-短语:and so even 出现次数:1 频率:0.21%
-短语:and so let 出现次数:1 频率:0.21%
-短语:and so we 出现次数:1 频率:0.21%
-短语:and some of 出现次数:1 频率:0.21%
-短语:and the crooked 出现次数:1 频率:0.21%
-短语:and the glory 出现次数:1 频率:0.21%
-短语:and the hotels 出现次数:1 频率:0.21%
-短语:and the security 出现次数:1 频率:0.21%
-短语:and there will 出现次数:1 频率:0.21%
-短语:and they have 出现次数:1 频率:0.21%
-短语:and this is 出现次数:1 频率:0.21%
-短语:and this will 出现次数:1 频率:0.21%
-短语:and those who 出现次数:1 频率:0.21%
-短语:and we will 出现次数:1 频率:0.21%
-短语:and when this 出现次数:1 频率:0.21%
-短语:and will be 出现次数:1 频率:0.21%
-短语:and will now 出现次数:1 频率:0.21%
-短语:are created equal 出现次数:1 频率:0.21%
-短语:are insufficient funds 出现次数:1 频率:0.21%
-短语:as a negro 出现次数:1 频率:0.21%
-短语:as evidenced by 出现次数:1 频率:0.21%
-短语:as the greatest 出现次数:1 频率:0.21%
-短语:awakening if the 出现次数:1 频率:0.21%
-短语:be able to 出现次数:1 频率:0.21%
-短语:be content will 出现次数:1 频率:0.21%
-短语:be guilty of 出现次数:1 频率:0.21%
-短语:be made low 出现次数:1 频率:0.21%
-短语:be neither rest 出现次数:1 频率:0.21%
-短语:be the day 出现次数:1 频率:0.21%
-短语:been seared in 出现次数:1 频率:0.21%
-短语:believe that there 出现次数:1 频率:0.21%
-短语:black men and 出现次数:1 频率:0.21%
-短语:black men as 出现次数:1 频率:0.21%
-短语:blow off steam 出现次数:1 频率:0.21%
-短语:boys and white 出现次数:1 频率:0.21%
-短语:bright day of 出现次数:1 频率:0.21%
-短语:business as usual 出现次数:1 频率:0.21%
-短语:but a beginning 出现次数:1 频率:0.21%
-短语:but not only 出现次数:1 频率:0.21%
-短语:but one hundred 出现次数:1 频率:0.21%
-短语:but there is 出现次数:1 频率:0.21%
-短语:but we refuse 出现次数:1 频率:0.21%
-短语:by the manacles 出现次数:1 频率:0.21%
-短语:by the storms 出现次数:1 频率:0.21%
-短语:came as a 出现次数:1 频率:0.21%
-短语:cannot gain lodging 出现次数:1 频率:0.21%
-短语:capped rockies of 出现次数:1 频率:0.21%
-短语:cash a check 出现次数:1 频率:0.21%
-短语:cash this check 出现次数:1 频率:0.21%
-短语:citizens of color 出现次数:1 频率:0.21%
-短语:color of their 出现次数:1 频率:0.21%
-短语:come here out 出现次数:1 频率:0.21%
-短语:come to realize 出现次数:1 频率:0.21%
-短语:come to this 出现次数:1 频率:0.21%
-短语:community must not 出现次数:1 频率:0.21%
-短语:conduct our struggle 出现次数:1 频率:0.21%
-短语:constitution and the 出现次数:1 频率:0.21%
-短语:continue to work 出现次数:1 频率:0.21%
-短语:day even the 出现次数:1 频率:0.21%
-短语:day every valley 出现次数:1 频率:0.21%
-短语:day on the 出现次数:1 频率:0.21%
-短语:day this nation 出现次数:1 频率:0.21%
-短语:declaration of independence 出现次数:1 频率:0.21%
-短语:demonstration for freedom 出现次数:1 频率:0.21%
-短语:destiny is tied 出现次数:1 频率:0.21%
-短语:down in alabama 出现次数:1 频率:0.21%
-短语:down in history 出现次数:1 频率:0.21%
-短语:dream deeply rooted 出现次数:1 频率:0.21%
-短语:dream that my 出现次数:1 频率:0.21%
-短语:dripping with the 出现次数:1 频率:0.21%
-短语:engulfed the negro 出现次数:1 频率:0.21%
-短语:every village and 出现次数:1 频率:0.21%
-短语:exile in his 出现次数:1 频率:0.21%
-短语:fatal for the 出现次数:1 频率:0.21%
-短语:fatigue of travel 出现次数:1 频率:0.21%
-短语:finds himself an 出现次数:1 频率:0.21%
-短语:five score years 出现次数:1 频率:0.21%
-短语:for all of 出现次数:1 频率:0.21%
-短语:for freedom together 出现次数:1 频率:0.21%
-短语:for many of 出现次数:1 频率:0.21%
-短语:former slave owners 出现次数:1 频率:0.21%
-短语:former slaves and 出现次数:1 频率:0.21%
-短语:foundations of our 出现次数:1 频率:0.21%
-短语:four little children 出现次数:1 频率:0.21%
-短语:freedom by drinking 出现次数:1 频率:0.21%
-短语:freedom ring from 出现次数:1 频率:0.21%
-短语:from areas where 出现次数:1 频率:0.21%
-短语:from every hill 出现次数:1 频率:0.21%
-短语:from every state 出现次数:1 频率:0.21%
-短语:from lookout mountain 出现次数:1 频率:0.21%
-短语:from narrow jail 出现次数:1 频率:0.21%
-短语:from stone mountain 出现次数:1 频率:0.21%
-短语:from the cup 出现次数:1 频率:0.21%
-短语:from the curvaceous 出现次数:1 频率:0.21%
-短语:from the dark 出现次数:1 频率:0.21%
-短语:from the heightening 出现次数:1 频率:0.21%
-短语:from the mighty 出现次数:1 频率:0.21%
-短语:from the snow 出现次数:1 频率:0.21%
-短语:ghettos of our 出现次数:1 频率:0.21%
-短语:girls as sisters 出现次数:1 频率:0.21%
-短语:great beacon light 出现次数:1 频率:0.21%
-短语:hallowed spot to 出现次数:1 频率:0.21%
-短语:has come back 出现次数:1 频率:0.21%
-短语:has defaulted on 出现次数:1 频率:0.21%
-短语:has nothing for 出现次数:1 频率:0.21%
-短语:have a rude 出现次数:1 频率:0.21%
-短语:have come fresh 出现次数:1 频率:0.21%
-短语:have come to 出现次数:1 频率:0.21%
-短语:having his lips 出现次数:1 频率:0.21%
-短语:heat of oppression 出现次数:1 频率:0.21%
-短语:heavy with the 出现次数:1 频率:0.21%
-短语:heights of meeting 出现次数:1 频率:0.21%
-短语:his citizenship rights 出现次数:1 频率:0.21%
-短语:hope that the 出现次数:1 频率:0.21%
-短语:i am happy 出现次数:1 频率:0.21%
-短语:i am not 出现次数:1 频率:0.21%
-短语:i go back 出现次数:1 频率:0.21%
-短语:i say to 出现次数:1 频率:0.21%
-短语:i still have 出现次数:1 频率:0.21%
-短语:in a sense 出现次数:1 频率:0.21%
-短语:in mississippi cannot 出现次数:1 频率:0.21%
-短语:in the american 出现次数:1 频率:0.21%
-短语:in the great 出现次数:1 频率:0.21%
-短语:in the history 出现次数:1 频率:0.21%
-短语:in the luxury 出现次数:1 频率:0.21%
-短语:in the midst 出现次数:1 频率:0.21%
-短语:in the motels 出现次数:1 频率:0.21%
-短语:in the process 出现次数:1 频率:0.21%
-短语:in whose symbolic 出现次数:1 频率:0.21%
-短语:insofar as her 出现次数:1 频率:0.21%
-短语:instead of honoring 出现次数:1 频率:0.21%
-短语:into a beautiful 出现次数:1 频率:0.21%
-短语:into an oasis 出现次数:1 频率:0.21%
-短语:into physical violence 出现次数:1 频率:0.21%
-短语:is inextricably bound 出现次数:1 频率:0.21%
-短语:is not free 出现次数:1 频率:0.21%
-短语:is to be 出现次数:1 频率:0.21%
-短语:island of poverty 出现次数:1 频率:0.21%
-短语:it came as 出现次数:1 频率:0.21%
-短语:it is a 出现次数:1 频率:0.21%
-短语:it is obvious 出现次数:1 频率:0.21%
-短语:it ring from 出现次数:1 频率:0.21%
-短语:it would be 出现次数:1 频率:0.21%
-短语:jews and gentiles 出现次数:1 频率:0.21%
-短语:judged by the 出现次数:1 频率:0.21%
-短语:justice a reality 出现次数:1 频率:0.21%
-短语:justice is bankrupt 出现次数:1 频率:0.21%
-短语:justice rolls down 出现次数:1 频率:0.21%
-短语:knowing that somehow 出现次数:1 频率:0.21%
-短语:knowing that we 出现次数:1 频率:0.21%
-短语:land of the 出现次数:1 频率:0.21%
-短语:land where my 出现次数:1 频率:0.21%
-短语:lead us to 出现次数:1 频率:0.21%
-短语:left you battered 出现次数:1 频率:0.21%
-短语:liberty and the 出现次数:1 频率:0.21%
-短语:little black boys 出现次数:1 频率:0.21%
-短语:live in a 出现次数:1 频率:0.21%
-短语:long as our 出现次数:1 频率:0.21%
-短语:long as the 出现次数:1 频率:0.21%
-短语:long night of 出现次数:1 频率:0.21%
-短语:martin luther king 出现次数:1 频率:0.21%
-短语:militancy which has 出现次数:1 频率:0.21%
-短语:millions of negro 出现次数:1 频率:0.21%
-短语:mountain of despair 出现次数:1 频率:0.21%
-短语:mountains of new 出现次数:1 频率:0.21%
-短语:must say to 出现次数:1 频率:0.21%
-短语:nation returns to 出现次数:1 频率:0.21%
-短语:nation to overlook 出现次数:1 频率:0.21%
-短语:nation until the 出现次数:1 频率:0.21%
-短语:nation where they 出现次数:1 频率:0.21%
-短语:negro in new 出现次数:1 频率:0.21%
-短语:negro is granted 出现次数:1 频率:0.21%
-短语:negro is the 出现次数:1 频率:0.21%
-短语:negro needed to 出现次数:1 频率:0.21%
-短语:nor tranquility in 出现次数:1 频率:0.21%
-短语:not be satisfied 出现次数:1 频率:0.21%
-短语:ocean of material 出现次数:1 频率:0.21%
-短语:of a vast 出现次数:1 频率:0.21%
-短语:of bitterness and 出现次数:1 频率:0.21%
-短语:of cooling off 出现次数:1 频率:0.21%
-短语:of gaining our 出现次数:1 频率:0.21%
-短语:of great trials 出现次数:1 频率:0.21%
-短语:of hope to 出现次数:1 频率:0.21%
-短语:of its creed 出现次数:1 频率:0.21%
-短语:of new hampshire 出现次数:1 频率:0.21%
-短语:of our republic 出现次数:1 频率:0.21%
-短语:of persecution and 出现次数:1 频率:0.21%
-短语:of racial justice 出现次数:1 频率:0.21%
-短语:of segregation and 出现次数:1 频率:0.21%
-短语:of segregation to 出现次数:1 频率:0.21%
-短语:of the cities 出现次数:1 频率:0.21%
-短语:of the highways 出现次数:1 频率:0.21%
-短语:of the lord 出现次数:1 频率:0.21%
-短语:of the negro 出现次数:1 频率:0.21%
-短语:of thee i 出现次数:1 频率:0.21%
-短语:of this nation 出现次数:1 频率:0.21%
-短语:of you have 出现次数:1 频率:0.21%
-短语:on a lonely 出现次数:1 频率:0.21%
-短语:on the high 出现次数:1 频率:0.21%
-短语:one day right 出现次数:1 频率:0.21%
-短语:or to take 出现次数:1 频率:0.21%
-短语:our nation from 出现次数:1 频率:0.21%
-短语:our thirst for 出现次数:1 频率:0.21%
-短语:our white brothers 出现次数:1 频率:0.21%
-短语:out of the 出现次数:1 频率:0.21%
-短语:physical force with 出现次数:1 频率:0.21%
-短语:places will be 出现次数:1 频率:0.21%
-短语:plane of dignity 出现次数:1 频率:0.21%
-短语:protest to degenerate 出现次数:1 频率:0.21%
-短语:protestants and catholics 出现次数:1 频率:0.21%
-短语:pursuit of happiness 出现次数:1 频率:0.21%
-短语:quest for freedom 出现次数:1 频率:0.21%
-短语:racial injustice to 出现次数:1 频率:0.21%
-短语:real the promises 出现次数:1 频率:0.21%
-短语:realize that their 出现次数:1 频率:0.21%
-短语:red hills of 出现次数:1 频率:0.21%
-短语:remind america of 出现次数:1 频率:0.21%
-短语:revolt will continue 出现次数:1 频率:0.21%
-短语:riches of freedom 出现次数:1 频率:0.21%
-短语:s capital to 出现次数:1 频率:0.21%
-短语:s children will 出现次数:1 频率:0.21%
-短语:s legitimate discontent 出现次数:1 频率:0.21%
-短语:satisfied as long 出现次数:1 频率:0.21%
-短语:seek to satisfy 出现次数:1 频率:0.21%
-短语:shadow we stand 出现次数:1 频率:0.21%
-短语:shall be exalted 出现次数:1 频率:0.21%
-短语:shall be revealed 出现次数:1 频率:0.21%
-短语:shall see it 出现次数:1 频率:0.21%
-短语:signed the emancipation 出现次数:1 频率:0.21%
-短语:sing with new 出现次数:1 频率:0.21%
-短语:skin but by 出现次数:1 频率:0.21%
-短语:slaves who had 出现次数:1 频率:0.21%
-短语:slopes of california 出现次数:1 频率:0.21%
-短语:some of you 出现次数:1 频率:0.21%
-短语:something that i 出现次数:1 频率:0.21%
-短语:staggered by the 出现次数:1 频率:0.21%
-短语:state of mississippi 出现次数:1 频率:0.21%
-短语:still languished in 出现次数:1 频率:0.21%
-短语:still sadly crippled 出现次数:1 频率:0.21%
-短语:sweet land of 出现次数:1 频率:0.21%
-短语:sweltering with the 出现次数:1 频率:0.21%
-短语:symphony of brotherhood 出现次数:1 频率:0.21%
-短语:table of brotherhood 出现次数:1 频率:0.21%
-短语:thank god almighty 出现次数:1 频率:0.21%
-短语:that all men 出现次数:1 频率:0.21%
-短语:that their freedom 出现次数:1 频率:0.21%
-短语:that unearned suffering 出现次数:1 频率:0.21%
-短语:the bank of 出现次数:1 频率:0.21%
-短语:the chains of 出现次数:1 频率:0.21%
-短语:the content of 出现次数:1 频率:0.21%
-短语:the corners of 出现次数:1 频率:0.21%
-短语:the day when 出现次数:1 频率:0.21%
-短语:the devotees of 出现次数:1 频率:0.21%
-短语:the difficulties of 出现次数:1 频率:0.21%
-短语:the faith that 出现次数:1 频率:0.21%
-短语:the fierce urgency 出现次数:1 频率:0.21%
-短语:the flames of 出现次数:1 频率:0.21%
-短语:the jangling discords 出现次数:1 频率:0.21%
-短语:the life of 出现次数:1 频率:0.21%
-短语:the marvelous new 出现次数:1 频率:0.21%
-短语:the negro lives 出现次数:1 频率:0.21%
-短语:the negro people 出现次数:1 频率:0.21%
-短语:the negro still 出现次数:1 频率:0.21%
-短语:the old negro 出现次数:1 频率:0.21%
-短语:the palace of 出现次数:1 频率:0.21%
-短语:the pledge that 出现次数:1 频率:0.21%
-短语:the prodigious hilltops 出现次数:1 频率:0.21%
-短语:the quicksands of 出现次数:1 频率:0.21%
-短语:the rough places 出现次数:1 频率:0.21%
-短语:the slums and 出现次数:1 频率:0.21%
-短语:the solid rock 出现次数:1 频率:0.21%
-短语:the sunlit path 出现次数:1 频率:0.21%
-短语:the tranquilizing drug 出现次数:1 频率:0.21%
-短语:the true meaning 出现次数:1 频率:0.21%
-短语:the urgency of 出现次数:1 频率:0.21%
-短语:the veterans of 出现次数:1 频率:0.21%
-短语:the warm threshold 出现次数:1 频率:0.21%
-短语:the whirlwinds of 出现次数:1 频率:0.21%
-短语:the words of 出现次数:1 频率:0.21%
-短语:their presence here 出现次数:1 频率:0.21%
-短语:there are those 出现次数:1 频率:0.21%
-短语:there in alabama 出现次数:1 频率:0.21%
-短语:they were signing 出现次数:1 频率:0.21%
-短语:this is no 出现次数:1 频率:0.21%
-短语:this is our 出现次数:1 频率:0.21%
-短语:this momentous decree 出现次数:1 频率:0.21%
-短语:this must become 出现次数:1 频率:0.21%
-短语:this note was 出现次数:1 频率:0.21%
-短语:this promissory note 出现次数:1 频率:0.21%
-短语:this sacred obligation 出现次数:1 频率:0.21%
-短语:this situation can 出现次数:1 频率:0.21%
-短语:this sweltering summer 出现次数:1 频率:0.21%
-短语:this will be 出现次数:1 频率:0.21%
-短语:though we face 出现次数:1 频率:0.21%
-短语:three is not 出现次数:1 频率:0.21%
-短语:time to engage 出现次数:1 频率:0.21%
-短语:time to lift 出现次数:1 频率:0.21%
-短语:time to rise 出现次数:1 频率:0.21%
-短语:tis of thee 出现次数:1 频率:0.21%
-短语:to believe that 出现次数:1 频率:0.21%
-短语:to end the 出现次数:1 频率:0.21%
-短语:to go to 出现次数:1 频率:0.21%
-短语:to join with 出现次数:1 频率:0.21%
-短语:to our freedom 出现次数:1 频率:0.21%
-短语:to pray together 出现次数:1 频率:0.21%
-短语:to shake the 出现次数:1 频率:0.21%
-短语:to sit down 出现次数:1 频率:0.21%
-短语:to stand up 出现次数:1 频率:0.21%
-短语:to struggle together 出现次数:1 频率:0.21%
-短语:to the majestic 出现次数:1 频率:0.21%
-短语:to the south 出现次数:1 频率:0.21%
-短语:to which every 出现次数:1 频率:0.21%
-短语:today and tomorrow 出现次数:1 频率:0.21%
-短语:today that america 出现次数:1 频率:0.21%
-短语:today to dramatize 出现次数:1 频率:0.21%
-短语:together at the 出现次数:1 频率:0.21%
-短语:truths to be 出现次数:1 频率:0.21%
-短语:unmindful that some 出现次数:1 频率:0.21%
-短语:unspeakable horrors of 出现次数:1 频率:0.21%
-短语:until there is 出现次数:1 频率:0.21%
-短语:up that day 出现次数:1 频率:0.21%
-短语:up with our 出现次数:1 频率:0.21%
-短语:upon demand the 出现次数:1 频率:0.21%
-短语:valley of despair 出现次数:1 频率:0.21%
-短语:vaults of opportunity 出现次数:1 频率:0.21%
-短语:ve come here 出现次数:1 频率:0.21%
-短语:victim of the 出现次数:1 频率:0.21%
-短语:vote and a 出现次数:1 频率:0.21%
-短语:wallow in the 出现次数:1 频率:0.21%
-短语:we are free 出现次数:1 频率:0.21%
-短语:we are not 出现次数:1 频率:0.21%
-短语:we cannot be 出现次数:1 频率:0.21%
-短语:we cannot turn 出现次数:1 频率:0.21%
-短语:we cannot walk 出现次数:1 频率:0.21%
-短语:we have also 出现次数:1 频率:0.21%
-短语:we hold these 出现次数:1 频率:0.21%
-短语:we must forever 出现次数:1 频率:0.21%
-短语:we must make 出现次数:1 频率:0.21%
-短语:we must rise 出现次数:1 频率:0.21%
-短语:we refuse to 出现次数:1 频率:0.21%
-短语:we shall always 出现次数:1 频率:0.21%
-短语:well as white 出现次数:1 频率:0.21%
-短语:what will go 出现次数:1 频率:0.21%
-短语:when all of 出现次数:1 频率:0.21%
-短语:when the architects 出现次数:1 频率:0.21%
-短语:when we allow 出现次数:1 频率:0.21%
-短语:when we let 出现次数:1 频率:0.21%
-短语:when will you 出现次数:1 频率:0.21%
-短语:which leads into 出现次数:1 频率:0.21%
-短语:which to vote 出现次数:1 频率:0.21%
-短语:who are asking 出现次数:1 频率:0.21%
-短语:who stand on 出现次数:1 频率:0.21%
-短语:will be free 出现次数:1 频率:0.21%
-短语:will be made 出现次数:1 频率:0.21%
-短语:will be transformed 出现次数:1 频率:0.21%
-短语:will give us 出现次数:1 频率:0.21%
-短语:will not be 出现次数:1 频率:0.21%
-短语:will not pass 出现次数:1 频率:0.21%
-短语:will one day 出现次数:1 频率:0.21%
-短语:will rise up 出现次数:1 频率:0.21%
-短语:winds of police 出现次数:1 频率:0.21%
-短语:with its governor 出现次数:1 频率:0.21%
-短语:with its vicious 出现次数:1 频率:0.21%
-短语:with little white 出现次数:1 频率:0.21%
-短语:with the faith 出现次数:1 频率:0.21%
-短语:with the heat 出现次数:1 频率:0.21%
-短语:words of the 出现次数:1 频率:0.21%
-短语:would be guaranteed 出现次数:1 频率:0.21%
-短语:wrote the magnificent 出现次数:1 频率:0.21%
-短语:york believes he 出现次数:1 频率:0.21%
-短语:you have been 出现次数:1 频率:0.21%
-短语:you have come 出现次数:1 频率:0.21%
-短语:you today in 出现次数:1 频率:0.21%
+去掉停词表中的单词后，单词分布频率如下:
+单词:freedom 出现次数:20 频率:3.38%
+单词:negro 出现次数:14 频率:2.37%
+单词:day 出现次数:12 频率:2.03%
+单词:dream 出现次数:12 频率:2.03%
+单词:ring 出现次数:12 频率:2.03%
+单词:nation 出现次数:11 频率:1.86%
+单词:justice 出现次数:8 频率:1.35%
+单词:satisfied 出现次数:6 频率:1.02%
+单词:white 出现次数:6 频率:1.02%
+单词:america 出现次数:5 频率:0.85%
+单词:check 出现次数:5 频率:0.85%
+单词:faith 出现次数:5 频率:0.85%
+单词:free 出现次数:5 频率:0.85%
+单词:time 出现次数:5 频率:0.85%
+单词:american 出现次数:4 频率:0.68%
+单词:black 出现次数:4 频率:0.68%
+单词:children 出现次数:4 频率:0.68%
+单词:god 出现次数:4 频率:0.68%
+单词:hope 出现次数:4 频率:0.68%
+单词:land 出现次数:4 频率:0.68%
+单词:mississippi 出现次数:4 频率:0.68%
+单词:mountain 出现次数:4 频率:0.68%
+单词:alabama 出现次数:3 频率:0.51%
+单词:brotherhood 出现次数:3 频率:0.51%
+单词:georgia 出现次数:3 频率:0.51%
+单词:injustice 出现次数:3 频率:0.51%
+单词:join 出现次数:3 频率:0.51%
+单词:note 出现次数:3 频率:0.51%
+单词:people 出现次数:3 频率:0.51%
+单词:rights 出现次数:3 频率:0.51%
+单词:rise 出现次数:3 频率:0.51%
+单词:sing 出现次数:3 频率:0.51%
+单词:stand 出现次数:3 频率:0.51%
+单词:sweltering 出现次数:3 频率:0.51%
+单词:valley 出现次数:3 频率:0.51%
+单词:ve 出现次数:3 频率:0.51%
+单词:boys 出现次数:2 频率:0.34%
+单词:brothers 出现次数:2 频率:0.34%
+单词:brutality 出现次数:2 频率:0.34%
+单词:cash 出现次数:2 频率:0.34%
+单词:cities 出现次数:2 频率:0.34%
+单词:color 出现次数:2 频率:0.34%
+单词:content 出现次数:2 频率:0.34%
+单词:continue 出现次数:2 频率:0.34%
+单词:creative 出现次数:2 频率:0.34%
+单词:despair 出现次数:2 频率:0.34%
+单词:destiny 出现次数:2 频率:0.34%
+单词:force 出现次数:2 频率:0.34%
+单词:funds 出现次数:2 频率:0.34%
+单词:girls 出现次数:2 频率:0.34%
+单词:hands 出现次数:2 频率:0.34%
+单词:heat 出现次数:2 频率:0.34%
+单词:hill 出现次数:2 频率:0.34%
+单词:history 出现次数:2 频率:0.34%
+单词:insufficient 出现次数:2 频率:0.34%
+单词:jail 出现次数:2 频率:0.34%
+单词:knowing 出现次数:2 频率:0.34%
+单词:liberty 出现次数:2 频率:0.34%
+单词:life 出现次数:2 频率:0.34%
+单词:live 出现次数:2 频率:0.34%
+单词:meaning 出现次数:2 频率:0.34%
+单词:mighty 出现次数:2 频率:0.34%
+单词:mountainside 出现次数:2 频率:0.34%
+单词:physical 出现次数:2 频率:0.34%
+单词:police 出现次数:2 频率:0.34%
+单词:promissory 出现次数:2 频率:0.34%
+单词:quest 出现次数:2 频率:0.34%
+单词:racial 出现次数:2 频率:0.34%
+单词:realize 出现次数:2 频率:0.34%
+单词:refuse 出现次数:2 频率:0.34%
+单词:segregation 出现次数:2 频率:0.34%
+单词:slaves 出现次数:2 频率:0.34%
+单词:sons 出现次数:2 频率:0.34%
+单词:south 出现次数:2 频率:0.34%
+单词:stone 出现次数:2 频率:0.34%
+单词:struggle 出现次数:2 频率:0.34%
+单词:suffering 出现次数:2 频率:0.34%
+单词:thee 出现次数:2 频率:0.34%
+单词:true 出现次数:2 频率:0.34%
+单词:urgency 出现次数:2 频率:0.34%
+单词:vote 出现次数:2 频率:0.34%
+单词:walk 出现次数:2 频率:0.34%
+单词:york 出现次数:2 频率:0.34%
+单词:ago 出现次数:1 频率:0.17%
+单词:ahead 出现次数:1 频率:0.17%
+单词:alleghenies 出现次数:1 频率:0.17%
+单词:almighty 出现次数:1 频率:0.17%
+单词:architects 出现次数:1 频率:0.17%
+单词:autumn 出现次数:1 频率:0.17%
+单词:awakening 出现次数:1 频率:0.17%
+单词:bad 出现次数:1 频率:0.17%
+单词:bank 出现次数:1 频率:0.17%
+单词:bankrupt 出现次数:1 频率:0.17%
+单词:battered 出现次数:1 频率:0.17%
+单词:beacon 出现次数:1 频率:0.17%
+单词:beautiful 出现次数:1 频率:0.17%
+单词:believes 出现次数:1 频率:0.17%
+单词:bitterness 出现次数:1 频率:0.17%
+单词:blow 出现次数:1 频率:0.17%
+单词:bodies 出现次数:1 频率:0.17%
+单词:bound 出现次数:1 频率:0.17%
+单词:bright 出现次数:1 频率:0.17%
+单词:business 出现次数:1 频率:0.17%
+单词:california 出现次数:1 频率:0.17%
+单词:capital 出现次数:1 频率:0.17%
+单词:capped 出现次数:1 频率:0.17%
+单词:captivity 出现次数:1 频率:0.17%
+单词:carolina 出现次数:1 频率:0.17%
+单词:catholics 出现次数:1 频率:0.17%
+单词:cells 出现次数:1 频率:0.17%
+单词:chains 出现次数:1 频率:0.17%
+单词:changed 出现次数:1 频率:0.17%
+单词:character 出现次数:1 频率:0.17%
+单词:citizens 出现次数:1 频率:0.17%
+单词:citizenship 出现次数:1 频率:0.17%
+单词:city 出现次数:1 频率:0.17%
+单词:civil 出现次数:1 频率:0.17%
+单词:colorado 出现次数:1 频率:0.17%
+单词:community 出现次数:1 频率:0.17%
+单词:concerned 出现次数:1 频率:0.17%
+单词:condition 出现次数:1 频率:0.17%
+单词:conduct 出现次数:1 频率:0.17%
+单词:constitution 出现次数:1 频率:0.17%
+单词:cooling 出现次数:1 频率:0.17%
+单词:corners 出现次数:1 频率:0.17%
+单词:country 出现次数:1 频率:0.17%
+单词:created 出现次数:1 频率:0.17%
+单词:creed 出现次数:1 频率:0.17%
+单词:crippled 出现次数:1 频率:0.17%
+单词:crooked 出现次数:1 频率:0.17%
+单词:cup 出现次数:1 频率:0.17%
+单词:curvaceous 出现次数:1 频率:0.17%
+单词:dark 出现次数:1 频率:0.17%
+单词:daybreak 出现次数:1 频率:0.17%
+单词:declaration 出现次数:1 频率:0.17%
+单词:decree 出现次数:1 频率:0.17%
+单词:deeds 出现次数:1 频率:0.17%
+单词:deeply 出现次数:1 频率:0.17%
+单词:defaulted 出现次数:1 频率:0.17%
+单词:degenerate 出现次数:1 频率:0.17%
+单词:demand 出现次数:1 频率:0.17%
+单词:democracy 出现次数:1 频率:0.17%
+单词:demonstration 出现次数:1 频率:0.17%
+单词:desolate 出现次数:1 频率:0.17%
+单词:devotees 出现次数:1 频率:0.17%
+单词:died 出现次数:1 频率:0.17%
+单词:difficulties 出现次数:1 频率:0.17%
+单词:dignity 出现次数:1 频率:0.17%
+单词:discipline 出现次数:1 频率:0.17%
+单词:discontent 出现次数:1 频率:0.17%
+单词:discords 出现次数:1 频率:0.17%
+单词:discrimination 出现次数:1 频率:0.17%
+单词:distrust 出现次数:1 频率:0.17%
+单词:dramatize 出现次数:1 频率:0.17%
+单词:drinking 出现次数:1 频率:0.17%
+单词:dripping 出现次数:1 频率:0.17%
+单词:drug 出现次数:1 频率:0.17%
+单词:emancipation 出现次数:1 频率:0.17%
+单词:emerges 出现次数:1 频率:0.17%
+单词:engage 出现次数:1 频率:0.17%
+单词:engulfed 出现次数:1 频率:0.17%
+单词:equal 出现次数:1 频率:0.17%
+单词:equality 出现次数:1 频率:0.17%
+单词:evidenced 出现次数:1 频率:0.17%
+单词:evident 出现次数:1 频率:0.17%
+单词:exalted 出现次数:1 频率:0.17%
+单词:exile 出现次数:1 频率:0.17%
+单词:fall 出现次数:1 频率:0.17%
+单词:fatal 出现次数:1 频率:0.17%
+单词:fathers 出现次数:1 频率:0.17%
+单词:fatigue 出现次数:1 频率:0.17%
+单词:fierce 出现次数:1 频率:0.17%
+单词:flames 出现次数:1 频率:0.17%
+单词:flesh 出现次数:1 频率:0.17%
+单词:forever 出现次数:1 频率:0.17%
+单词:foundations 出现次数:1 频率:0.17%
+单词:fresh 出现次数:1 频率:0.17%
+单词:friends 出现次数:1 频率:0.17%
+单词:gain 出现次数:1 频率:0.17%
+单词:gaining 出现次数:1 频率:0.17%
+单词:gentiles 出现次数:1 频率:0.17%
+单词:ghettos 出现次数:1 频率:0.17%
+单词:glory 出现次数:1 频率:0.17%
+单词:governor 出现次数:1 频率:0.17%
+单词:gradualism 出现次数:1 频率:0.17%
+单词:granted 出现次数:1 频率:0.17%
+单词:guaranteed 出现次数:1 频率:0.17%
+单词:guilty 出现次数:1 频率:0.17%
+单词:hallowed 出现次数:1 频率:0.17%
+单词:hamlet 出现次数:1 频率:0.17%
+单词:hampshire 出现次数:1 频率:0.17%
+单词:happiness 出现次数:1 频率:0.17%
+单词:happy 出现次数:1 频率:0.17%
+单词:hatred 出现次数:1 频率:0.17%
+单词:heavy 出现次数:1 频率:0.17%
+单词:heightening 出现次数:1 频率:0.17%
+单词:heights 出现次数:1 频率:0.17%
+单词:heir 出现次数:1 频率:0.17%
+单词:hew 出现次数:1 频率:0.17%
+单词:highways 出现次数:1 频率:0.17%
+单词:hills 出现次数:1 频率:0.17%
+单词:hilltops 出现次数:1 频率:0.17%
+单词:hold 出现次数:1 频率:0.17%
+单词:honoring 出现次数:1 频率:0.17%
+单词:horrors 出现次数:1 频率:0.17%
+单词:hotels 出现次数:1 频率:0.17%
+单词:independence 出现次数:1 频率:0.17%
+单词:inextricably 出现次数:1 频率:0.17%
+单词:interposition 出现次数:1 频率:0.17%
+单词:invigorating 出现次数:1 频率:0.17%
+单词:island 出现次数:1 频率:0.17%
+单词:jangling 出现次数:1 频率:0.17%
+单词:jews 出现次数:1 频率:0.17%
+单词:joyous 出现次数:1 频率:0.17%
+单词:jr 出现次数:1 频率:0.17%
+单词:judged 出现次数:1 频率:0.17%
+单词:king 出现次数:1 频率:0.17%
+单词:languished 出现次数:1 频率:0.17%
+单词:lead 出现次数:1 频率:0.17%
+单词:leads 出现次数:1 频率:0.17%
+单词:left 出现次数:1 频率:0.17%
+单词:legitimate 出现次数:1 频率:0.17%
+单词:lift 出现次数:1 频率:0.17%
+单词:light 出现次数:1 频率:0.17%
+单词:lips 出现次数:1 频率:0.17%
+单词:lives 出现次数:1 频率:0.17%
+单词:lodging 出现次数:1 频率:0.17%
+单词:lonely 出现次数:1 频率:0.17%
+单词:lookout 出现次数:1 频率:0.17%
+单词:lord 出现次数:1 频率:0.17%
+单词:louisiana 出现次数:1 频率:0.17%
+单词:low 出现次数:1 频率:0.17%
+单词:luther 出现次数:1 频率:0.17%
+单词:luxury 出现次数:1 频率:0.17%
+单词:magnificent 出现次数:1 频率:0.17%
+单词:majestic 出现次数:1 频率:0.17%
+单词:manacles 出现次数:1 频率:0.17%
+单词:march 出现次数:1 频率:0.17%
+单词:marked 出现次数:1 频率:0.17%
+单词:martin 出现次数:1 频率:0.17%
+单词:marvelous 出现次数:1 频率:0.17%
+单词:material 出现次数:1 频率:0.17%
+单词:meeting 出现次数:1 频率:0.17%
+单词:midst 出现次数:1 频率:0.17%
+单词:militancy 出现次数:1 频率:0.17%
+单词:millions 出现次数:1 频率:0.17%
+单词:molehill 出现次数:1 频率:0.17%
+单词:moment 出现次数:1 频率:0.17%
+单词:momentous 出现次数:1 频率:0.17%
+单词:motels 出现次数:1 频率:0.17%
+单词:mountains 出现次数:1 频率:0.17%
+单词:narrow 出现次数:1 频率:0.17%
+单词:night 出现次数:1 频率:0.17%
+单词:nineteen 出现次数:1 频率:0.17%
+单词:northern 出现次数:1 频率:0.17%
+单词:nullification 出现次数:1 频率:0.17%
+单词:oasis 出现次数:1 频率:0.17%
+单词:obligation 出现次数:1 频率:0.17%
+单词:obvious 出现次数:1 频率:0.17%
+单词:ocean 出现次数:1 频率:0.17%
+单词:opportunity 出现次数:1 频率:0.17%
+单词:oppression 出现次数:1 频率:0.17%
+单词:overlook 出现次数:1 频率:0.17%
+单词:owners 出现次数:1 频率:0.17%
+单词:palace 出现次数:1 频率:0.17%
+单词:pass 出现次数:1 频率:0.17%
+单词:path 出现次数:1 频率:0.17%
+单词:pennsylvania 出现次数:1 频率:0.17%
+单词:persecution 出现次数:1 频率:0.17%
+单词:pilgrim 出现次数:1 频率:0.17%
+单词:plain 出现次数:1 频率:0.17%
+单词:plane 出现次数:1 频率:0.17%
+单词:pledge 出现次数:1 频率:0.17%
+单词:poverty 出现次数:1 频率:0.17%
+单词:pray 出现次数:1 频率:0.17%
+单词:presence 出现次数:1 频率:0.17%
+单词:pride 出现次数:1 频率:0.17%
+单词:process 出现次数:1 频率:0.17%
+单词:proclamation 出现次数:1 频率:0.17%
+单词:prodigious 出现次数:1 频率:0.17%
+单词:promise 出现次数:1 频率:0.17%
+单词:promises 出现次数:1 频率:0.17%
+单词:prosperity 出现次数:1 频率:0.17%
+单词:protest 出现次数:1 频率:0.17%
+单词:protestants 出现次数:1 频率:0.17%
+单词:pursuit 出现次数:1 频率:0.17%
+单词:quicksands 出现次数:1 频率:0.17%
+单词:racists 出现次数:1 频率:0.17%
+单词:real 出现次数:1 频率:0.17%
+单词:reality 出现次数:1 频率:0.17%
+单词:red 出现次数:1 频率:0.17%
+单词:redemptive 出现次数:1 频率:0.17%
+单词:remind 出现次数:1 频率:0.17%
+单词:republic 出现次数:1 频率:0.17%
+单词:rest 出现次数:1 频率:0.17%
+单词:returns 出现次数:1 频率:0.17%
+单词:revealed 出现次数:1 频率:0.17%
+单词:revolt 出现次数:1 频率:0.17%
+单词:riches 出现次数:1 频率:0.17%
+单词:righteousness 出现次数:1 频率:0.17%
+单词:rightful 出现次数:1 频率:0.17%
+单词:rock 出现次数:1 频率:0.17%
+单词:rockies 出现次数:1 频率:0.17%
+单词:rolls 出现次数:1 频率:0.17%
+单词:rooted 出现次数:1 频率:0.17%
+单词:rough 出现次数:1 频率:0.17%
+单词:rude 出现次数:1 频率:0.17%
+单词:sacred 出现次数:1 频率:0.17%
+单词:sadly 出现次数:1 频率:0.17%
+单词:satisfy 出现次数:1 频率:0.17%
+单词:score 出现次数:1 频率:0.17%
+单词:seared 出现次数:1 频率:0.17%
+单词:security 出现次数:1 频率:0.17%
+单词:seek 出现次数:1 频率:0.17%
+单词:sense 出现次数:1 频率:0.17%
+单词:shadow 出现次数:1 频率:0.17%
+单词:shake 出现次数:1 频率:0.17%
+单词:shameful 出现次数:1 频率:0.17%
+单词:signed 出现次数:1 频率:0.17%
+单词:signing 出现次数:1 频率:0.17%
+单词:sisters 出现次数:1 频率:0.17%
+单词:sit 出现次数:1 频率:0.17%
+单词:situation 出现次数:1 频率:0.17%
+单词:sixty 出现次数:1 频率:0.17%
+单词:skin 出现次数:1 频率:0.17%
+单词:slave 出现次数:1 频率:0.17%
+单词:slopes 出现次数:1 频率:0.17%
+单词:slums 出现次数:1 频率:0.17%
+单词:snow 出现次数:1 频率:0.17%
+单词:society 出现次数:1 频率:0.17%
+单词:solid 出现次数:1 频率:0.17%
+单词:soul 出现次数:1 频率:0.17%
+单词:speed 出现次数:1 频率:0.17%
+单词:spiritual 出现次数:1 频率:0.17%
+单词:spot 出现次数:1 频率:0.17%
+单词:staggered 出现次数:1 频率:0.17%
+单词:steam 出现次数:1 频率:0.17%
+单词:storms 出现次数:1 频率:0.17%
+单词:straight 出现次数:1 频率:0.17%
+单词:stream 出现次数:1 频率:0.17%
+单词:summer 出现次数:1 频率:0.17%
+单词:sunlit 出现次数:1 频率:0.17%
+单词:sweet 出现次数:1 频率:0.17%
+单词:symbolic 出现次数:1 频率:0.17%
+单词:symphony 出现次数:1 频率:0.17%
+单词:table 出现次数:1 频率:0.17%
+单词:tennessee 出现次数:1 频率:0.17%
+单词:thirst 出现次数:1 频率:0.17%
+单词:threshold 出现次数:1 频率:0.17%
+单词:tied 出现次数:1 频率:0.17%
+单词:tis 出现次数:1 频率:0.17%
+单词:tomorrow 出现次数:1 频率:0.17%
+单词:tranquility 出现次数:1 频率:0.17%
+单词:tranquilizing 出现次数:1 频率:0.17%
+单词:transform 出现次数:1 频率:0.17%
+单词:transformed 出现次数:1 频率:0.17%
+单词:travel 出现次数:1 频率:0.17%
+单词:trials 出现次数:1 频率:0.17%
+单词:tribulations 出现次数:1 频率:0.17%
+单词:truths 出现次数:1 频率:0.17%
+单词:unalienable 出现次数:1 频率:0.17%
+单词:unearned 出现次数:1 频率:0.17%
+单词:unmindful 出现次数:1 频率:0.17%
+单词:unspeakable 出现次数:1 频率:0.17%
+单词:usual 出现次数:1 频率:0.17%
+单词:vast 出现次数:1 频率:0.17%
+单词:vaults 出现次数:1 频率:0.17%
+单词:veterans 出现次数:1 频率:0.17%
+单词:vicious 出现次数:1 频率:0.17%
+单词:victim 出现次数:1 频率:0.17%
+单词:village 出现次数:1 频率:0.17%
+单词:violence 出现次数:1 频率:0.17%
+单词:wallow 出现次数:1 频率:0.17%
+单词:warm 出现次数:1 频率:0.17%
+单词:waters 出现次数:1 频率:0.17%
+单词:whirlwinds 出现次数:1 频率:0.17%
+单词:winds 出现次数:1 频率:0.17%
+单词:withering 出现次数:1 频率:0.17%
+单词:wrongful 出现次数:1 频率:0.17%
+单词:wrote 出现次数:1 频率:0.17%
+0.081 s
