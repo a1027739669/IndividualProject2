@@ -7,3 +7,30 @@
 1569314312589:java --name sf
 1569314364800:add 1 2
 1569314388797:add 1 2 3
+1577201671252:-f "" > ans.txt
+1577201688274:-f "C:\\Users\\Komorebi\\Desktop\\one.txt" > ans.txt
+1577201690671:-f "C:\\Users\\Komorebi\\Desktop\\one.txt"
+1577201707471:-f "C:\\\\Users\\\\Komorebi\\\\Desktop\\\\one.txt"
+1577201817763:-f
+1577201896980:-f "sf"
+1577201913574:-f C:\\Users\\Komorebi\\Desktop\\one.txt
+1577201977252:Say hi
+1577202128109:-f
+1577202134803:countWord
+1577202166530:add 1 2
+1577202214243:-f C:\\Users\\Komorebi\\Desktop\\one.txt
+1577202230691:-f ""
+1577202249763:-f C:/Users/Komorebi/Desktop/one.txt
+1577202277687:-f C:/Users/Komorebi/Desktop/one.txt > ans.txt
+1577202296790:-f C:/Users/Komorebi/Desktop/one.txt >> ans.txt
+1577202539094:-f C:/Users/Komorebi/Desktop/one.txt result.txt
+1577202582900:C:/Users/Komorebi/Desktop/one.txt result.txt
+1577202588422:-f C:/Users/Komorebi/Desktop/one.txt result.txt
+1577202624334:C:/Users/Komorebi/Desktop/one.txt result.txt
+1577202628826:-f C:/Users/Komorebi/Desktop/one.txt result.txt
+1577226178125:-d C:/Users/Komorebi/Desktop/600篇英文小说 result.txt
+1577226618667:-d C:/Users/Komorebi/Desktop/600篇英文小说 result.txt -100
+1577226929632:-d C:/Users/Komorebi/Desktop/600篇英文小说 result.txt 100
+1577227368976:-x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result.txt
+1577227487817:wf.exe -x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result.txt
+1577229551719:wf.exe -p 3  C:/Users/Komorebi/Desktop/one.txt result.txt
