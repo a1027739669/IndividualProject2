@@ -34,3 +34,28 @@
 1577227368976:-x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result.txt
 1577227487817:wf.exe -x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result.txt
 1577229551719:wf.exe -p 3  C:/Users/Komorebi/Desktop/one.txt result.txt
+1577229655301:wf.exe -f C:/Users/Komorebi/Desktop/one.txt result1.txt
+1577230953643:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt
+1577231061196:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt 100
+1577231070804:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt
+1577231187959:, @ShellOption(defaultValue = "-1") int n
+1577231192496:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt
+1577232107053:wf.exe -f C:/Users/Komorebi/Desktop/one.txt result1.txt
+1577232551489:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt
+1577237744549:wf.exe -f C:/Users/Komorebi/Desktop/one.txt result1.txt
+1577238945437:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt
+1577239179856:wf.exe -f C:/Users/Komorebi/Desktop/one.txt result1.txt
+1577239192914:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt
+1577239424627:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt 100
+1577239448416:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result3.txt 100
+1577239544444:wf.exe -x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result4.txt
+1577239806129:wf.exe -x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result5.txt
+1577239881993:wf.exe -x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result4.txt
+1577240062654:wf.exe -f C:/Users/Komorebi/Desktop/one.txt result1.txt
+1577240139299:wf.exe -x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result4.txt
+1577240205013:wf.exe -p 3  C:/Users/Komorebi/Desktop/one.txt result5.txt
+1577240238045:wf.exe -f C:/Users/Komorebi/Desktop/one.txt result1.txt
+1577240300794:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result2.txt
+1577240398261:wf.exe -d C:/Users/Komorebi/Desktop/600篇英文小说 result3.txt 100
+1577240438943:wf.exe -x C:/Users/Komorebi/Desktop/stopwords_en.txt -f  C:/Users/Komorebi/Desktop/one.txt result4.txt
+1577240484584:wf.exe -p 3  C:/Users/Komorebi/Desktop/one.txt result5.txt

@@ -21,6 +21,7 @@ import java.util.regex.Pattern;
 @SpringBootApplication
 @ShellComponent
 public class Main {
+    private static int count=0;
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
     }
@@ -28,54 +29,38 @@ public class Main {
     @ShellMethod(value = "countWord", key = "wf.exe -f")
     public void countWord(String path1, String path2) throws Exception {
         long start = System.currentTimeMillis();
-        FileChannel print = new FileOutputStream(new File(path2)).getChannel();
-        ByteBuffer buf = ByteBuffer.allocate(1024);
-        List<WordCount> list = WordCountService.getWordCount(readTxt(path1));
-        String data;
-        for (int i = 0; i < list.size(); i++) {
-            data = list.get(i).getWord() + " " + list.get(i).getCount() + "\n";
-            buf.put(data.getBytes());
-            buf.flip();
-            print.write(buf);
-            buf.clear();
+        List<HashMap.Entry<String, Integer>> list=Fun.countWord(path1);
+        BufferedWriter bw = new BufferedWriter(new FileWriter(path2));
+        for(Map.Entry<String,Integer> e:list){
+            bw.write(e.getKey()+" "+e.getValue());
+            bw.newLine();
         }
-        long end = System.currentTimeMillis();
-        System.out.println((end - start) / (float) 1000);
-        data = (end - start) / (float) 1000 + " " + "s";
-        buf.put(data.getBytes());
-        buf.flip();
-        print.write(buf);
-        buf.clear();
+        long end=System.currentTimeMillis();
+        bw.write(""+(float) (end-start)/1000);
+        bw.newLine();
+        bw.flush();
+        bw.close();
+        System.out.println((float)(end-start)/1000);
     }
 
     @ShellMethod(value = "countDirectory", key = "wf.exe -d")
     public void countDirectory(String path1, String path2, @ShellOption(defaultValue = "-1") int n) throws Exception {
         long start = System.currentTimeMillis();
-        FileChannel print = new FileOutputStream(new File(path2)).getChannel();
-        ByteBuffer buf = ByteBuffer.allocate(1024);
-        String ans = "";
+        BufferedWriter bw = new BufferedWriter(new FileWriter(path2));
         if (n == -1) {
             Files.walkFileTree(Paths.get(path1), new SimpleFileVisitor<Path>() {
                 @Override
                 public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-                    String temp = "*****************************\n正在访问文件:" + file.getFileName() + "\n";
-                    buf.put(temp.getBytes());
-                    buf.flip();
-                    print.write(buf);
-                    buf.clear();
-                    List<WordCount> list = WordCountService.getWordCount(readTxt(file.toAbsolutePath().toString()));
-                    for (int i = 0; i < list.size(); i++) {
-                        temp = list.get(i).getWord() + " " + list.get(i).getCount() + "\n";
-                        buf.put(temp.getBytes());
-                        buf.flip();
-                        print.write(buf);
-                        buf.clear();
+                    count++;
+                    bw.write( "*****************************正在访问文件:" + file.getFileName());
+                    bw.newLine();
+                    List<HashMap.Entry<String, Integer>> list=Fun.countWord(file.toAbsolutePath().toString());
+                    for(Map.Entry<String,Integer> e:list){
+                        bw.write(e.getKey()+" "+e.getValue());
+                        bw.newLine();
                     }
-                    temp = "*****************************";
-                    buf.put(temp.getBytes());
-                    buf.flip();
-                    print.write(buf);
-                    buf.clear();
+                    bw.write( "*****************************");
+                    bw.newLine();
                     return FileVisitResult.CONTINUE;
                 }
             });
@@ -83,71 +68,53 @@ public class Main {
             Files.walkFileTree(Paths.get(path1), new SimpleFileVisitor<Path>() {
                 @Override
                 public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-                    String temp = "*****************************\n正在访问文件:" + file.getFileName() + "\n";
-                    buf.put(temp.getBytes());
-                    buf.flip();
-                    print.write(buf);
-                    buf.clear();
-                    List<WordCount> list = WordCountService.getWordCount(readTxt(file.toAbsolutePath().toString()));
-                    for (int i = 0; i < Math.min(list.size(), n); i++) {
-                        temp = list.get(i).getWord() + " " + list.get(i).getCount() + "\n";
-                        buf.put(temp.getBytes());
-                        buf.flip();
-                        print.write(buf);
-                        buf.clear();
+                    bw.write( "*****************************正在访问文件:" + file.getFileName());
+                    bw.newLine();
+                    List<HashMap.Entry<String, Integer>> list=Fun.countWord(file.toAbsolutePath().toString());
+                    for (int i = 0; i <Math.min(list.size(),n) ; i++) {
+                        Map.Entry<String,Integer> e=list.get(i);
+                        bw.write(e.getKey()+" "+e.getValue());
+                        bw.newLine();
                     }
-                    temp = "*****************************";
-                    buf.put(temp.getBytes());
-                    buf.flip();
-                    print.write(buf);
-                    buf.clear();
+                    bw.write( "*****************************");
+                    bw.newLine();
                     return FileVisitResult.CONTINUE;
                 }
             });
         }
         long end = System.currentTimeMillis();
+        bw.write(""+(float) (end-start)/1000);
+        bw.newLine();
+        bw.flush();
+        bw.close();
         System.out.println((end - start) / (float) 1000);
-        ans = "\n" + (end - start) / (float) 1000 + " " + "s" + "\n";
-        buf.put(ans.getBytes());
-        buf.flip();
-        print.write(buf);
-        buf.clear();
-
-
     }
 
     @ShellMethod(value = "stopWord", key = "wf.exe")
     public void countWithStop(String x, String path1, String f, String path2, String path3) throws IOException {
         long start = System.currentTimeMillis();
-        FileChannel print = new FileOutputStream(new File(path3)).getChannel();
-        ByteBuffer buf = ByteBuffer.allocate(1024);
         List<String> stopList = Arrays.asList(readTxt(path1).split(" "));
-        List<WordCount> list = WordCountService.getWordCount(readTxt(path2));
-        String data;
-        for (int i = 0; i < list.size(); i++) {
-            data = list.get(i).getWord();
-            int flag = 1;
-            for (int j = 0; j < stopList.size(); j++) {
-                if (stopList.get(j).equals(data)) {
+        List<HashMap.Entry<String, Integer>> list=Fun.countWord(path2);
+        BufferedWriter bw = new BufferedWriter(new FileWriter(path3));
+        for(Map.Entry<String,Integer> e:list){
+            int flag=1;
+            for (String s : stopList) {
+                if (s.equals(e.getKey())) {
                     flag = 0;
                     break;
                 }
             }
-            if (flag == 1) {
-                data = list.get(i).getWord() + " " + list.get(i).getCount() + "\n";
-                buf.put(data.getBytes());
-                buf.flip();
-                print.write(buf);
-                buf.clear();
+            if(flag==1) {
+                bw.write(e.getKey() + " " + e.getValue());
+                bw.newLine();
             }
         }
-        long end = System.currentTimeMillis();
+        long end=System.currentTimeMillis();
         System.out.println((end - start) / (float) 1000);
-        data = (end - start) / (float) 1000 + " " + "s";
-        buf.put(data.getBytes());
-        buf.flip();
-        print.write(buf);
-        buf.clear();
+        bw.write(""+(float) (end-start)/1000);
+        bw.newLine();
+        bw.flush();
+        bw.close();
     }
 
     @ShellMethod(value = "phrase", key = "wf.exe -p")
